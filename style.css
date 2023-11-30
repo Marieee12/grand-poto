@@ -1,0 +1,29 @@
+@media (min-width: 1200px){
+
+}
+
+.col-xl-4 {
+    flex: 0 0 auto;
+    width: 19.333333%;
+}
+
+.col-xxl-4 {
+    flex: 0 0 auto;
+    width: 16.333333%;
+}
+
+.col-lg-4 {
+    flex: 0 0 auto;
+    width: 19.333333%;
+}
+
+.col-md-3 {
+    flex: 0 0 auto;
+    width: 16%;
+}
+
+.col-sm-6 {
+    flex: 0 0 auto;
+    width: 33%;
+}
+
